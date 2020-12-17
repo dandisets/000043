@@ -33,3 +33,7 @@ keywords:
 - Patch-seq, Motor cortex, Betz cell, Human, Macaque, Mouse
 - ''
 name: Human, macaque, and mouse L5 pyramidal neuron physiology
+organism:
+- species: Mus musculus
+- species: Homo sapiens
+- species: Macaca mulatta
