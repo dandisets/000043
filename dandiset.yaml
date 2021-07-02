@@ -6,6 +6,7 @@ about: []
 access:
 - contactPoint:
     schemaKey: ContactPoint
+  schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
   approach: []
@@ -72,7 +73,8 @@ keywords:
 - Human
 - Macaque
 - Mouse
-license: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation: []
 name: Human, macaque, and mouse L5 pyramidal neuron physiology
 protocol: []
@@ -86,4 +88,5 @@ version: draft
 wasGeneratedBy:
 - name: Brain Initiative Cell Census Network (BICCN)
   schemaKey: Project
+  used: []
   wasAssociatedWith: []
