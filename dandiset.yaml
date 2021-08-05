@@ -75,7 +75,8 @@ keywords:
 - Mouse
 license:
 - spdx:CC-BY-4.0
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000043/versions/draft/assets/
 name: Human, macaque, and mouse L5 pyramidal neuron physiology
 protocol: []
 relatedResource: []
