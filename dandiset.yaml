@@ -15,11 +15,17 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 2169142071
-  numberOfFiles: 64
+  numberOfBytes: 2973063925
+  numberOfFiles: 85
   numberOfSubjects: 13
   schemaKey: AssetsSummary
-  species: []
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
+    name: Human
+    schemaKey: SpeciesType
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: House mouse
+    schemaKey: SpeciesType
   variableMeasured: []
 citation: Kalmbach, Brian; Ting, Jonathan; Owen, Scott; Lein, Ed (2021) Human, macaque,
   and mouse L5 pyramidal neuron physiology (Version draft) [Data set]. DANDI archive.
@@ -61,6 +67,7 @@ contributor:
   - dcite:ProjectLeader
   - dcite:Conceptualization
   schemaKey: Person
+dateCreated: '2020-11-05T22:45:59.109000+00:00'
 description: Patch clamp recordings from human premotor cortex, macaque M1 and mouse
   MOp.
 ethicsApproval: []
