@@ -15,16 +15,19 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 2973063925
-  numberOfFiles: 85
+  numberOfBytes: 3271279661
+  numberOfFiles: 94
   numberOfSubjects: 13
   schemaKey: AssetsSummary
   species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: House mouse
+    schemaKey: SpeciesType
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
     name: Human
     schemaKey: SpeciesType
-  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
-    name: House mouse
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9544
+    name: Rhesus monkey
     schemaKey: SpeciesType
   variableMeasured: []
 citation: Kalmbach, Brian; Ting, Jonathan; Owen, Scott; Lein, Ed (2021) Human, macaque,
