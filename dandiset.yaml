@@ -17,7 +17,7 @@ assetsSummary:
   measurementTechnique: []
   numberOfBytes: 3271279661
   numberOfFiles: 94
-  numberOfSubjects: 13
+  numberOfSubjects: 22
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -30,7 +30,7 @@ assetsSummary:
     name: Rhesus monkey
     schemaKey: SpeciesType
   variableMeasured: []
-citation: Kalmbach, Brian; Ting, Jonathan; Owen, Scott; Lein, Ed (2021) Human, macaque,
+citation: Kalmbach, Brian; Ting, Jonathan; Owen, Scott; Lein, Ed (2022) Human, macaque,
   and mouse L5 pyramidal neuron physiology (Version draft) [Data set]. DANDI archive.
   https://dandiarchive.org/dandiset/000043/draft
 contributor:
